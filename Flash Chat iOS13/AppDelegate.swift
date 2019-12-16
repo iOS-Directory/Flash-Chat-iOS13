@@ -31,6 +31,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         //Enable Keyboard package
         IQKeyboardManager.shared.enable = true
+        
         //Disable Keyboard toolbar
         IQKeyboardManager.shared.enableAutoToolbar = false
         
